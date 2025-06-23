@@ -64,9 +64,7 @@ function App() {
         <div className="project">
           <h3>Aplikasi Absensi Santri</h3>
           <p>
-            Membuat aplikasi absensi santri berbasis web dengan sistem login dan
-            QR Code menggunakan PHP dan MySQL. Studi kasus Pondok Pesantren
-            Miftahul Huda Kroya.
+           
           </p>
         </div>
 
